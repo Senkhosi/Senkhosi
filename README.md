@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Siphiwosenkhosi 👋
 
-<!--
-**Senkhosi/Senkhosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+🚀 Aspiring DevOps / DevSecOps Engineer  
+🐧 Linux & Automation Enthusiast  
 
-Here are some ideas to get you started:
+## 🔧 Technologies I'm Learning
+- Linux
+- Bash Scripting
+- Docker
+- Git & GitHub
+- CI/CD Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### Linux Server Automation
+Automates Linux server setup and deploys a Docker container with CI testing.
+
+🔗 https://github.com/Senkhosi/linux-server-automation
+
+## 📚 Current Focus
+- Linux system administration
+- DevOps automation
+- Container technologies
+- CI/CD pipelines
+
+## 🌍 Career Goal
+To become a DevOps engineer building scalable and secure infrastructure systems.
